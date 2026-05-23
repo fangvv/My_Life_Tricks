@@ -6,3 +6,5 @@
 > setInterval(() => { const buttonEle = document.getElementsByClassName('layui-layer-btn0')[0]; if (buttonEle) buttonEle.click(); }, 3000)
 
 学校的学习平台，用代码形式会崩溃，chrome安装插件 Global Speed: 视频速度控制，就可以全局定义速度为16倍速，不需要再输入代码。
+
+目前有一些做题的，可以用两台设备，一台启动豆包，视频方式拍摄另一台做题的设备，和豆包对话来选择结果，这样做题会比盲选要好的多，也比挨个复制去问大模型快得多。
